@@ -2,4 +2,5 @@
 
 |  #  |                                                        Project on GitHub                                                              |                                         Demo                                                        |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------|
-| 01  | [Color-flipper](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/01%20-%20Color-flipper)                  | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/01%20-%20Color-flipper/)  | 
+| 01  | [Color-flipper](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/01%20-%20Color-flipper)                  | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/01%20-%20Color-flipper/)  |
+| 02  | [Counter](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/02%20-%20Counter)                              | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/02%20-%20Counter/)        |  
