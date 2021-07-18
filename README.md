@@ -7,7 +7,7 @@
 | 03  | [Reviews](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/03%20-%20Reviews)                  | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/03%20-%20Reviews/)          |  
 | 04  | [Navbar](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/04%20-%20Navbar)                    | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/04%20-%20Navbar/index.html) | 
 | 05  | [Sidebar](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/05%20-%20Sidebar)                  | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/05%20-%20Sidebar/)          | 
-
-
+| 06  | [Modal](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/06%20-%20Modal)                      | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/06%20-%20Modal/)            |
+ 
 
 
