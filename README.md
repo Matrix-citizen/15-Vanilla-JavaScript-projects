@@ -12,6 +12,7 @@
 | 08  | [Menu](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/08%20-%20Menu)                        | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/08%20-%20Menu/)             | 
 | 09  | [Video](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/09%20-%20Video)                      | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/09%20-%20Video/)            | 
 | 10  | [Scroll](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/10%20-%20Scroll)                    | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/10%20-%20Scroll/)           | 
+| 11  | [Tabs](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/11%20-%20Tabs)                        | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/11%20-%20Tabs/)             | 
 
 
 
