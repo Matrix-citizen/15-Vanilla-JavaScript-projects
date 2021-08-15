@@ -1,4 +1,4 @@
-# 15 Projects. I did only JavaScript logic, CSS and HTML had been preset.
+# 15 Projects. CSS was preset, I only did HTML and JavaScript logic.
 
 |  #  |                                                        Project on GitHub                                                  |                                         Demo                                                          |
 | :-: | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------|
