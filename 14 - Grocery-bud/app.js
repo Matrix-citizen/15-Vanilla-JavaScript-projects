@@ -48,7 +48,9 @@ function addItem (e) {
     container.classList.add('show-container');
     // add to local storage
     addToLocalStorage(id, value);
-    
+    // set back to default
+    setBackToDefault();
+
   } else if (value && editFlag) {
     console.log('editing');
   } else {
@@ -68,6 +70,16 @@ function displayAlert (text, action) {
   }, 1000);
 }
 
+// set back to default
+function setBackToDefault () {
+  grocery.value = '';
+  editFlag = false;
+  editID = '';
+  submitBtn.textContent = 'submit';
+}
 // ****** LOCAL STORAGE **********
+function addToLocalStorage (id, value) {
+  console.log('added to local storage');
 
+}
 // ****** SETUP ITEMS **********
