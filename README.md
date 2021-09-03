@@ -15,6 +15,7 @@
 | 11  | [Tabs](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/11%20-%20Tabs)                        | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/11%20-%20Tabs/)             | 
 | 12  | [Countdown-timer](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/12%20-%20Countdown-timer)  | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/12%20-%20Countdown-timer/)  | 
 | 13  | [Lorem-ipsum](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/13%20-%20Lorem-ipsum)          | [Demo](https://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/13%20-%20Lorem-ipsum/)      | 
+| 14  | [Grocery-bud](https://github.com/Matrix-citizen/15-Vanilla-JavaScript-projects/tree/master/14%20-%20Grocery-bud)          | [Demo](http://matrix-citizen.online/15%20Vanilla%20JavaScript%20projects/14%20-%20Grocery-bud/)       | 
 
 
 
